@@ -1,0 +1,14 @@
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/bin/Debug/net6.0/Company.Storage.deps.json
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/bin/Debug/net6.0/Company.Storage.runtimeconfig.json
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/bin/Debug/net6.0/Company.Storage.dll
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/bin/Debug/net6.0/Company.Storage.pdb
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.csproj.AssemblyReference.cache
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.AssemblyInfoInputs.cache
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.AssemblyInfo.cs
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.csproj.CoreCompileInputs.cache
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.dll
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/refint/Company.Storage.dll
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.pdb
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/Company.Storage.genruntimeconfig.cache
+/Users/mbaryla/RiderProjects/TechTraining3_18May/Company.Storage/obj/Debug/net6.0/ref/Company.Storage.dll

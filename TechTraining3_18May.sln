@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTraining3_18May", "TechTraining3_18May\TechTraining3_18May.csproj", "{3F682F15-3CCB-4DED-8A58-D70E10BD5AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.Storage", "Company.Storage\Company.Storage.csproj", "{568C0BB1-CBF2-4280-9D40-60E784B323A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzkolenieTechniczne.Company", "SzkolenieTechniczne.Company\SzkolenieTechniczne.Company.csproj", "{BA292B2A-D34B-46AC-B903-A3E257B43709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F682F15-3CCB-4DED-8A58-D70E10BD5AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F682F15-3CCB-4DED-8A58-D70E10BD5AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F682F15-3CCB-4DED-8A58-D70E10BD5AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F682F15-3CCB-4DED-8A58-D70E10BD5AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568C0BB1-CBF2-4280-9D40-60E784B323A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568C0BB1-CBF2-4280-9D40-60E784B323A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568C0BB1-CBF2-4280-9D40-60E784B323A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568C0BB1-CBF2-4280-9D40-60E784B323A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA292B2A-D34B-46AC-B903-A3E257B43709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA292B2A-D34B-46AC-B903-A3E257B43709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA292B2A-D34B-46AC-B903-A3E257B43709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA292B2A-D34B-46AC-B903-A3E257B43709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
